@@ -1,0 +1,34 @@
+﻿已經開始建置於 2018/3/16 下午 05:34:30。
+     1>節點 2 (Build 目標) 上的專案 "F:\生涯歷程\成大資料\作品\VS2013\Cv_Hw2\Cv_Hw2\Cv_Hw2.vcxproj"。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _CRT_NON_CONFORMING_SWPRINTFS /D _CRT_NONSTDC_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Cv_Hw2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Cv_Hw2Dlg.cpp
+         Cv_Hw2Dlg.cpp
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(334): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(344): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(345): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(346): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(347): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(348): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(349): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(350): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(355): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(356): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(357): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(358): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(359): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(360): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(361): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(530): warning C4018: '<' : signed/unsigned 不相符
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(562): warning C4018: '<' : signed/unsigned 不相符
+     1>f:\生涯歷程\成大資料\作品\vs2013\cv_hw2\cv_hw2\cv_hw2dlg.cpp(609): warning C4018: '<' : signed/unsigned 不相符
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\生涯歷程\成大資料\作品\VS2013\Cv_Hw2\Debug\Cv_Hw2.exe" /INCREMENTAL /NOLOGO opencv_core247d.lib opencv_imgproc247d.lib opencv_highgui247d.lib opencv_ml247d.lib opencv_video247d.lib opencv_features2d247d.lib opencv_calib3d247d.lib opencv_objdetect247d.lib opencv_contrib247d.lib opencv_legacy247d.lib opencv_flann247d.lib opencv_nonfree247d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\生涯歷程\成大資料\作品\VS2013\Cv_Hw2\Debug\Cv_Hw2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\生涯歷程\成大資料\作品\VS2013\Cv_Hw2\Debug\Cv_Hw2.lib" /MACHINE:X86 Debug\Cv_Hw2.res
+         Debug\Cv_Hw2.obj
+         Debug\Cv_Hw2Dlg.obj
+         Debug\stdafx.obj
+         Cv_Hw2.vcxproj -> F:\生涯歷程\成大資料\作品\VS2013\Cv_Hw2\Debug\Cv_Hw2.exe
+     1>專案 "F:\生涯歷程\成大資料\作品\VS2013\Cv_Hw2\Cv_Hw2\Cv_Hw2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:10.92
